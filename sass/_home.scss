@@ -1,0 +1,21 @@
+body{
+    background-color:$main_color !important ;
+
+}
+img{
+    position:absolute;
+}
+.container{
+    position: relative;
+    top: 50;
+    left: 50;
+}
+
+#butn{
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    background-image: linear-gradient($main_color, rgb(0, 0, 0));
+}

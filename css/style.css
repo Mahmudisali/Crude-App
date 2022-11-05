@@ -1,0 +1,22 @@
+body {
+  background-color: #f33535 !important;
+}
+
+img {
+  position: absolute;
+}
+
+.container {
+  position: relative;
+  top: 50;
+  left: 50;
+}
+
+#butn {
+  display: flex;
+  justify-content: center;
+}
+
+table {
+  background-image: linear-gradient(#f33535, rgb(0, 0, 0));
+}/*# sourceMappingURL=style.css.map */
